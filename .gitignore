@@ -14,8 +14,9 @@
 /auth.json
 /node_modules
 /public/hot
-/storage/*.key
+/public/storage
 /storage/pail
+/vendor
 Homestead.json
 Homestead.yaml
 Thumbs.db
