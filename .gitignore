@@ -15,12 +15,11 @@
 /node_modules
 /public/hot
 /public/storage
+/storage/*.key
 /storage/pail
 /vendor
 Homestead.json
 Homestead.yaml
 Thumbs.db
 
-# Project exclude paths
-/storage/app/
-/storage/framework/
+
